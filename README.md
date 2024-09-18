@@ -25,3 +25,7 @@
 * 2018-11-21 [perf symbols: Fix slowness due to -ffunction-section](https://github.com/torvalds/linux/commit/1e6285699b3034e6f4d1f091edd46d717580bf7c)
 * 2017-01-30 [sparc64: fix for user probes in high memory](https://github.com/torvalds/linux/commit/269d8523585c1b82b53aff3cf00d88ccbaf58c35)
 * 2016-10-13 [sparc64: Support User Probes for Sparc](https://github.com/torvalds/linux/commit/e8f4aa6087fa80732382881ef7c0c96733bb1984)
+
+## Userland
+
+* 2015-11-18 [bootchart: Fix dump_buffers on sparc](https://github.com/xrmx/bootchart/commit/136149d81704d7df923d61244e2e51425bf1d590)
