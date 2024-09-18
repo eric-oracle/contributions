@@ -28,5 +28,5 @@
 
 ## Userland contributions
 
-* 2024-07-17 Zig [format: do not force user to provide an alignment field when it's not necessary](https://github.com/ziglang/zig/commit/c3faae6bf1589380e983aaf9e3238f053ba4a674)
-* 2015-11-18 bootchart [Fix dump_buffers on sparc](https://github.com/xrmx/bootchart/commit/136149d81704d7df923d61244e2e51425bf1d590)
+* 2024-07-17 `Zig` [format: do not force user to provide an alignment field when it's not necessary](https://github.com/ziglang/zig/commit/c3faae6bf1589380e983aaf9e3238f053ba4a674)
+* 2015-11-18 `bootchart` [Fix dump_buffers on sparc](https://github.com/xrmx/bootchart/commit/136149d81704d7df923d61244e2e51425bf1d590)
